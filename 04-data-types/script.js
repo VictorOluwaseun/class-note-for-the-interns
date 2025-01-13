@@ -106,4 +106,4 @@ function sayHello(name) {
 
 sayHello(newPerson.username)
 
-console.log();
+console.log(newPerson);
